@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is a microservice implementation for an ecommerce application",
   "scripts": {
-    "start": "nodemon featuredThemes.js"
+    "start": "nodemon products.js"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
